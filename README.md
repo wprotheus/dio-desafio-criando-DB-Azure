@@ -92,11 +92,11 @@ A integração da plataforma Microsoft Azure com serviços de banco de dados ofe
 
 ## 📷 Capturas de telas
 
-### Tela inicial da instaciação do DB:
-
+### Tela inicial da instanciação do DB:
+<img src="./img_db/Tela (1).png" alt="Tela inicial criação DB" width="350px"/>  
 
 ### Tela final com o DB instanciado:
-
+<img src="./img_db/Tela (7).png" alt="Tela final DB criado" width="350px"/>  
 
 ---
 
